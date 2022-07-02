@@ -1,0 +1,12 @@
+.movieCard{
+    height: 550px;
+    width: 300px;
+    padding: 1rem 0rem;
+    margin: 1rem auto 1rem auto;
+    overflow: hidden;
+    text-align: center;
+}
+.movieCard img{
+    height: 400px;
+    width: 100%;
+}

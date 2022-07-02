@@ -1,0 +1,8 @@
+.movies {
+    display: grid;
+    width: 65%;
+    margin: auto;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: auto;
+   
+  }
